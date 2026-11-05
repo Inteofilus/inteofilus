@@ -23,7 +23,7 @@ I'm currently building my AI engineering skills through independent projects, ex
 - **Backend:** Node.js, Express
 - **Databases:** PostgreSQL, Supabase
 - **ORMs:** Prisma, Drizzle
-- **AI Integration:** Anthropic API, Groq API
+- **AI Integration:** Anthropic API, Groq API, Docker 
 - **Testing:** Vitest, Playwright
 - **Tools:** Git, GitHub, pnpm
 
